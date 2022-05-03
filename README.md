@@ -2,8 +2,9 @@
 
 [![NPM downloads](https://img.shields.io/npm/dm/sqs-consumer.svg?style=flat)](https://npmjs.org/package/sqs-consumer)
 
-Forked from bbs/sqs-consumer. 
-Build SQS-based applications without the boilerplate. Just define an async function that handles the SQS message processing.
+Forked from bbs/sqs-consumer. Build SQS-based applications without the boilerplate. Just define an async function that handles the SQS message processing.
+
+As the original repo is too slow to update, this repo copied the AWS sdk update from this [PR](https://github.com/bbc/sqs-consumer/pull/252).
 
 ## Installation
 
