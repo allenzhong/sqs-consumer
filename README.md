@@ -2,6 +2,7 @@
 
 [![NPM downloads](https://img.shields.io/npm/dm/sqs-consumer.svg?style=flat)](https://npmjs.org/package/sqs-consumer)
 
+Forked from bbs/sqs-consumer. 
 Build SQS-based applications without the boilerplate. Just define an async function that handles the SQS message processing.
 
 ## Installation
